@@ -8,3 +8,6 @@ bob = Owner.new("human")
 mary = Owner.new("human")
 
 puts "Owner "
+
+binding.pry
+0
